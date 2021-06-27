@@ -2,7 +2,7 @@
 A program that improves performance for games on linux
 
 ## Warning
-### This program not working in wayland , only x11
+This program not working in wayland , only x11
 
 ## Dependencies
 * cpufreqd => 2.4.2-2
